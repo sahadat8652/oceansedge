@@ -303,6 +303,9 @@ header{
 	color: #FFFFFF;
 	border-right: 1px solid #FFFFFF;
 }
+.menubar ul li:last-child a{
+	border-right: 1px solid #121B2C;
+}
 .menubar p{
 	padding-left: 50px;
     color: #FFFFFF;
